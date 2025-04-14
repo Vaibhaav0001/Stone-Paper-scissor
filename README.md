@@ -41,7 +41,8 @@ The result is displayed with a message and the score is updated.
 Keep playing as much as you like!
 
 📂 Setup Instructions
-Clone the repository:
+Clone the repository:https://github.com/Vaibhaav0001/Stone-Paper-scissor
+
 Open the index.html file in your browser and enjoy the game!
 
 📸 Screenshot
